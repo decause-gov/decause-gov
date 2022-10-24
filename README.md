@@ -1,6 +1,6 @@
 - 🇺🇸 Open Source Lead, Digital Service, Centers for Medicare & Medicaid Services
 - 💻 https://cms.gov/digital-service-cms
-- 📫 DigitalService@cms.hhs.gov | opensource@cms.hhs.gov (coming soon)
+- 📫 DigitalService@cms.hhs.gov | opensource@cms.hhs.gov
 - 🐦 https://twitter.com/remy_d
 
 <!---
